@@ -1,0 +1,103 @@
+body {
+    background-image: url("blanc.jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 2000px 2000px;
+    padding: 0px;
+    font-family: Arial;
+   }
+  * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      background-color: #f1f1f1;
+      padding: 0px;
+      font-family: Arial;
+    }
+    
+    /* Center website */
+    .main {
+      max-width: 1000px;
+      margin: 80px;
+    }
+    
+    h1 {
+      font-size: 50px;
+      word-break: break-all;
+    }
+    
+     
+    .row {
+      margin: 10px -16px;
+     
+    }
+    .fa-linkedin {
+      background: #007bb5;
+      color: white;
+    }
+    
+    /* Add padding BETWEEN each column (if you want) */
+    .row,
+    .row > .column {
+      padding: 8px;
+    }
+    
+    /* Create four equal columns that floats next to each other */
+    .column {
+      float: left;
+      width: 25%;
+    }
+    
+    .card {
+      display: block;
+  
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 20px;
+    font-family: Arial;
+    background-image: url("rose.png")
+    
+    }
+  
+    .container {
+      display: block;
+    margin-left: 100px;
+    margin-right: 150px;
+    width: 2000%;
+    padding: 40px;
+    font-family: Times New Roman, Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    float: left;
+    background-image: url("ciel.png")
+    }
+    /* Clear floats after rows */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    /* Content */
+    .content {
+      background-color: white;
+      padding: 10px;
+    }
+    
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 900px) {
+      .column {
+        width: 50%;
+      }
+    }
+    
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+      }
+    }
