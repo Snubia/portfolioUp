@@ -3,13 +3,15 @@ This is a simple portfolio containing my resume, links to my Github and Linkedin
 
 **_Technologies_**
 
-CSS
-Html
-GitHub
-Bootstrap
+- CSS
+- Html
+- GitHub
+- Bootstrap
 
 **_Sections_**
 Accessible from the navbar displaying on top of the page we have
+- Link to my Github profil
+- Link to my Linkedin
 
 - Main home page with the Resume (Sandrine Babila Nubia)
 - About Me page with a little description of Sandrine Nubia 
@@ -17,7 +19,8 @@ Accessible from the navbar displaying on top of the page we have
 - Contact me page with my contact information as well as a send button to send me a direct email
 
 **_Demo_**
-
+![Alt text](relative/path/to/IMG_2090.mov?raw=true "Demo")
 
 **_Link to the web page_**
+https://snubia.github.io/portfolioUp/
 
