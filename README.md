@@ -19,7 +19,7 @@ Accessible from the navbar displaying on top of the page we have
 - Contact me page with my contact information as well as a send button to send me a direct email
 
 **_Demo_**
-![alternativetext](subfolder/demo.jpeg)
+![alternativetext](subfolder/hub.JPG)
 
 **_Link to the web page_**
 https://snubia.github.io/portfolioUp/
