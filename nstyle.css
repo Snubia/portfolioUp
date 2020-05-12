@@ -49,31 +49,15 @@ body {
       width: 25%;
     }
     
-    .card {
-      display: block;
   
-    margin-bottom: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    padding: 20px;
-    font-family: Arial;
-    background-image: url("rose.png")
-    
-    }
   
     .container {
-      display: block;
-    margin-left: 100px;
-    margin-right: 150px;
-    width: 2000%;
-    padding: 40px;
-    font-family: Times New Roman, Times, serif;
-    font-size: 20px;
-    font-style: italic;
-    font-weight: bold;
-    float: left;
-    background-image: url("ciel.png")
+      box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2);
+      max-width: 1000px;
+      margin: auto;
+      text-align: center;
+      font-family: arial;
+    
     }
     /* Clear floats after rows */
     .row:after {

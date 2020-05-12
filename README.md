@@ -1,8 +1,23 @@
 # portfolioUp
-this porforlio consist of four pages
-the first page is the home page and it is link to my name on the Nav-bar
-next we have the github and Linkedin buttons which open different pages to both my profiles
-you have an bout me page eho gives you access to a summary about me
-A protfolio page with some of my work
-a contact to page with a mailto link.
-the navigation bar is visible on all the pages to facilitate movement on the site.
+This is a simple portfolio containing my resume, links to my Github and Linkedin page, my resume, few web pages that I have created and a page to send with my contact information.
+
+**_Technologies_**
+
+CSS
+Html
+GitHub
+Bootstrap
+
+**_Sections_**
+Accessible from the navbar displaying on top of the page we have
+
+- Main home page with the Resume (Sandrine Babila Nubia)
+- About Me page with a little description of Sandrine Nubia 
+- Portfolio page with two examples of my webpages
+- Contact me page with my contact information as well as a send button to send me a direct email
+
+**_Demo_**
+
+
+**_Link to the web page_**
+
